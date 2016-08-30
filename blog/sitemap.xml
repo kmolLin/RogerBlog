@@ -4,29 +4,29 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://github.io/RogerBlog/index/</loc>
-<lastmod>2016-08-30T20:40:42-00:00</lastmod>
+<loc>https://smpss91341.github.io/RogerBlog/blog/</loc>
+<lastmod>2016-08-30T20:55:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://github.io/RogerBlog/index/archives.html</loc>
-<lastmod>2016-08-30T20:40:42-00:00</lastmod>
+<loc>https://smpss91341.github.io/RogerBlog/blog/archives.html</loc>
+<lastmod>2016-08-30T20:55:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://github.io/RogerBlog/index/tags.html</loc>
-<lastmod>2016-08-30T20:40:42-00:00</lastmod>
+<loc>https://smpss91341.github.io/RogerBlog/blog/tags.html</loc>
+<lastmod>2016-08-30T20:55:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://github.io/RogerBlog/index/categories.html</loc>
-<lastmod>2016-08-30T20:40:42-00:00</lastmod>
+<loc>https://smpss91341.github.io/RogerBlog/blog/categories.html</loc>
+<lastmod>2016-08-30T20:55:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
